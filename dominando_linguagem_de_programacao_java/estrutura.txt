@@ -1,0 +1,14 @@
+Dominando IDEs Java
+Variaveis, Tipos de Dados e Operadores matematicos em Java
+Entendendo Metodos Java
+Introducao e Estruturas Condicionais com Java
+Estruturas de Repeticao em Java
+Java e Tratamento de Excecoes
+Trabalhando com Collections Java
+Desafios de Codigo Basico Java - Quebec
+Programacao Orientada a Objetos
+Debugging Java
+Tratamento de Excecoes em Java
+Testes Unitarios com JUnit
+Desafios de Codigos Intermediario Java - Quebec
+Criando um Banco Digital com Java e Orientacao a Objetos
